@@ -12,7 +12,7 @@ export default defineConfig(({ mode }) => {
       preview: {
         port: 3030,
         host: '0.0.0.0',
-        allowedHosts: ['devfolio-jxky.onrender.com', '.onrender.com', 'localhost', 'https://imgbb.com']
+        allowedHosts: ['devfolio-jxky.onrender.com', '.onrender.com', 'localhost', 'https://imgbb.com', 'www.xptools.site']
       },
       plugins: [react()],
       resolve: {
