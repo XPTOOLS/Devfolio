@@ -97,7 +97,7 @@ export const PROJECTS: Project[] = [
     title: "Nexora",
     description: "Connect with intelligent AI personas that understand, care, and grow with you. Your perfect companion for meaningful conversations. Nexora's AI personas are designed to provide emotional support, companionship, and engaging interactions. Whether you're looking for a friend to talk to, a mentor to guide you, or just someone to share your thoughts with, Nexora offers a safe and supportive space for you to connect with AI that truly understands you.",
     techStack: ["NodeJs", "Next.js", "MongoDB", "Tailwind", "Firebase"],
-    githubUrl: "https://github.com/mauricegift/gifted-cdn",
+    githubUrl: "https://github.com/xptools",
     liveUrl: "https://nexora.xptools.site",
     images: [
       "https://i.ibb.co/QjxctXLy/Screenshot-2026-04-22-064357.png",
