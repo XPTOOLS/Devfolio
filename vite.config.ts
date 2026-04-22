@@ -9,6 +9,11 @@ export default defineConfig(({ mode }) => {
         port: 3030,
         host: '0.0.0.0',
       },
+      preview: {
+        port: 3030,
+        host: '0.0.0.0',
+        allowedHosts: ['devfolio-jxky.onrender.com', '.onrender.com', 'localhost', 'https://imgbb.com']
+      },
       plugins: [react()],
       resolve: {
         alias: {
