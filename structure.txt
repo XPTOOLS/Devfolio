@@ -1,0 +1,42 @@
+📦dev-folio-main
+ ┣ 📂node_modules
+  ┣ 📂src
+ ┃ ┣ 📂components
+ ┃ ┃ ┣ 📜Hero.tsx
+ ┃ ┃ ┣ 📜Layout.tsx
+ ┃ ┃ ┣ 📜ParticlesBackground.tsx
+ ┃ ┃ ┣ 📜ProjectGrid.tsx
+ ┃ ┃ ┣ 📜SectionWrapper.tsx
+ ┃ ┃ ┗ 📜Skills.tsx
+ ┃ ┣ 📂pages
+ ┃ ┃ ┣ 📜BlogDetail.tsx
+ ┃ ┃ ┣ 📜Blogs.tsx
+ ┃ ┃ ┣ 📜Contact.tsx
+ ┃ ┃ ┣ 📜Education.tsx
+ ┃ ┃ ┣ 📜Experience.tsx
+ ┃ ┃ ┣ 📜Home.tsx
+ ┃ ┃ ┣ 📜Privacy.tsx
+ ┃ ┃ ┣ 📜ProjectDetail.tsx
+ ┃ ┃ ┣ 📜SkillsPage.tsx
+ ┃ ┃ ┗ 📜Terms.tsx
+ ┃ ┣ 📂services
+ ┃ ┃ ┣ 📜blogs.ts
+ ┃ ┃ ┣ 📜constants.ts
+ ┃ ┃ ┣ 📜education.ts
+ ┃ ┃ ┣ 📜experience.ts
+ ┃ ┃ ┣ 📜projects.ts
+ ┃ ┃ ┣ 📜skills.ts
+ ┃ ┃ ┣ 📜testimonials.ts
+ ┃ ┃ ┗ 📜types.ts
+ ┃ ┣ 📜App.tsx
+ ┃ ┣ 📜index.css
+ ┃ ┗ 📜index.tsx
+ ┣ 📜index.html
+ ┣ 📜LICENSE
+ ┣ 📜metadata.json
+ ┣ 📜package-lock.json
+ ┣ 📜package.json
+ ┣ 📜README.md
+ ┣ 📜tsconfig.json
+ ┣ 📜vercel.json
+ ┗ 📜vite.config.ts

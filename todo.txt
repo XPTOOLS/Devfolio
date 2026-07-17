@@ -1,0 +1,3 @@
+now let us push all the new changes here https://github.com/XPTOOLS/Devfolio
+tell me what you need to do it, its a public repo. since the repo is in the same github account can you use the same credentials i used here "C:\Users\DELL\Desktop\TRASH\TRASH2\dev-folio-main\.git"
+but just make sure you only push new changes we added of C:\Users\DELL\Desktop\TRASH\TRASH2\dev-folio-main script
